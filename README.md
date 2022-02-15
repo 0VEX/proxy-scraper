@@ -9,4 +9,4 @@
 
 - you need python 3xx or higher
 
-- VEX -
+- VEX
